@@ -1,0 +1,9 @@
+export const FETCH_ACCOUNT_DATA            = 'fetch_account_data';
+export const UPDATE_FORM_DATA              = 'update_account_form_data';
+export const VALIDATE_FIELD                = 'validate_account_field';
+export const VALIDATE_ACC_FORM             = 'validate_account_form';
+export const UPDATE_ACCOUNT_START          = 'update_account_start';
+export const UPDATE_ACCOUNT_SUCCESS        = 'update_account_success';
+export const UPDATE_ACCOUNT_FAIL           = 'update_account_fail';
+export const UPDATE_ACCOUNT_COMPLETE       = 'update_account_complete';
+export const HANDLE_FORM_VALIDATION_ERRORS = 'handle_account_form_validation_errors';

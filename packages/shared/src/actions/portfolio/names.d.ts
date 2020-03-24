@@ -1,0 +1,9 @@
+export declare const LOAD_PORTFOLIO_DATA_START = "load_portfolio_data_start";
+export declare const LOAD_PORTFOLIO_DATA_DONE = "load_portfolio_data_done";
+export declare const LOAD_MORE_PORTFOLIO_DATA_START = "load_more_portfolio_data_start";
+export declare const LOAD_MORE_PORTFOLIO_DATA_APPEND = "load_more_portfolio_data_append";
+export declare const LOAD_MORE_PORTFOLIO_DATA_PREPEND = "load_more_portfolio_data_prepend";
+export declare const REMOVE_PORTFOLIO_ITEM_INIT = "remove_portfolio_item_init";
+export declare const REMOVE_PORTFOLIO_ITEM_CANCEL = "remove_portfolio_item_cancel";
+export declare const REMOVE_PORTFOLIO_ITEM_START = "remove_portfolio_item_start";
+export declare const REMOVE_PORTFOLIO_ITEM_DONE = "remove_portfolio_item_done";

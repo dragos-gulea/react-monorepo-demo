@@ -1,0 +1,159 @@
+html,
+body,
+#root,
+#root > div {
+    width: 100%;
+    /*height: 100%;*/
+    margin-bottom: 50px;
+}
+
+body {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+footer {
+    /*position: absolute;*/
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    overflow: hidden;
+    background-color: #4285f4;
+}
+
+.header {
+    margin: 20px;
+}
+
+.header-title {
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.row-item {
+    display: inline-block;
+}
+
+.project-title {
+    align-items: center;
+}
+
+.logo {
+    width: 100px;
+}
+
+.form-custom {
+    width: 400px !important;
+    margin: 0 auto !important;
+    padding-top: 50px;
+}
+
+.form-custom.registration {
+    height: 700px;
+}
+
+.last-menu-item {
+    position: absolute;
+    right: 20px;
+}
+
+.grid-custom {
+    padding: 1rem;
+    background-color: #33b5e5;
+    color: #fff;
+    text-align: center;
+}
+
+.grid-custom.welcome {
+    background-color: white;
+    text-align: center;
+    margin-bottom: 5px;
+    color: black;
+    font-weight: bold;
+}
+
+.grid-custom.welcome.refresh {
+    background-color: white;
+    text-align: right;
+    margin-bottom: 5px;
+    height: 60px;
+}
+
+.grid-custom.section-title {
+    background-color: lightgray;
+    text-align: left;
+    color: black;
+}
+
+.grid-custom.content-left {
+    background-color: white;
+    text-align: left;
+    color: black;
+}
+
+.grid-custom.content-right {
+    background-color: white;
+    text-align: right;
+    color: darkgray;
+    font-weight: bold;
+}
+
+.grid-custom.product-image {
+    background-color: white;
+    text-align: center;
+}
+
+.grid-custom.product-title {
+    background-color: lightgray;
+    text-align: left;
+    color: black;
+    font-weight: bold;
+}
+
+.grid-custom.product-description {
+    background-color: white;
+    text-align: left;
+    color: black;
+}
+
+.grid-custom.product-info-left {
+    background-color: white;
+    text-align: left;
+    color: black;
+}
+
+.grid-custom.product-info-right {
+    background-color: white;
+    text-align: right;
+    color: darkgray;
+    font-weight: bold;
+}
+
+.grid-custom.product-back-btn {
+    background-color: white;
+    text-align: center;
+}
+
+
+.reload-btn {
+    margin-top: auto !important;
+}
+
+.loading-icon {
+    margin-right: 40px;
+}
+
+.portfolio-page {
+    max-width: 1140px;
+    margin: 0 auto !important;
+}
+
+.portfolio-loader {
+    text-align: center;
+}
+
+.form-btn {
+    text-align: center;
+    padding-top: 20px;
+}

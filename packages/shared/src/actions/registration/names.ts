@@ -1,0 +1,9 @@
+export const LOAD_CLIENT_TITLES            = 'load_client_titles';
+export const UPDATE_FORM_DATA              = 'update_registration_form_data';
+export const VALIDATE_FIELD                = 'validate_registration_field';
+export const VALIDATE_REG_FORM             = 'validate_registration_form';
+export const REGISTRATION_START            = 'registration_start';
+export const REGISTRATION_SUCCESS          = 'registration_success';
+export const REGISTRATION_FAIL             = 'registration_fail';
+export const REGISTRATION_COMPLETE         = 'registration_complete';
+export const HANDLE_FORM_VALIDATION_ERRORS = 'handle_registration_form_validation_errors';

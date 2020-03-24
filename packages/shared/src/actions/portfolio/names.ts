@@ -1,0 +1,9 @@
+export const LOAD_PORTFOLIO_DATA_START        = 'load_portfolio_data_start';
+export const LOAD_PORTFOLIO_DATA_DONE         = 'load_portfolio_data_done';
+export const LOAD_MORE_PORTFOLIO_DATA_START   = 'load_more_portfolio_data_start';
+export const LOAD_MORE_PORTFOLIO_DATA_APPEND  = 'load_more_portfolio_data_append';
+export const LOAD_MORE_PORTFOLIO_DATA_PREPEND = 'load_more_portfolio_data_prepend';
+export const REMOVE_PORTFOLIO_ITEM_INIT       = 'remove_portfolio_item_init';
+export const REMOVE_PORTFOLIO_ITEM_CANCEL     = 'remove_portfolio_item_cancel';
+export const REMOVE_PORTFOLIO_ITEM_START      = 'remove_portfolio_item_start';
+export const REMOVE_PORTFOLIO_ITEM_DONE       = 'remove_portfolio_item_done';
